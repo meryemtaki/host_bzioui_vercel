@@ -1,0 +1,39 @@
+.imgdetail{
+    height: 37.2rem;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.blogdetail{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.blogdetail h1{
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.blogdetail p{
+    margin-left: 350px;
+    margin-right: 350px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.container .date{
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.blogdetail .blogdetail-content{
+    margin-bottom: 20px;
+}
+.blogdetail .blogdetail-content img{
+    width: 50%;
+    height: 400px;
+    padding-right: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-left: 350px;
+}
